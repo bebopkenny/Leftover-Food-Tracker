@@ -1,2 +1,7 @@
-# Leftover-Food-Tracker
-A web app built to track leftover food and reduce waste, created to strengthen my C++ fundamentals for backend logic. The interface is built with HTML and CSS, combining backend and frontend elements to deliver a practical and user-friendly experience.
+# Leftover Food Tracker Project
+
+Welcome to the Leftover Food Tracker project! 
+
+This project is intended to give you the opportunity to practice the concepts that your learned in CPSC 121.
+
+See the [Project Guide](http://tiny.cc/CPSC121A-ProjectGuide) for detailed instructions.

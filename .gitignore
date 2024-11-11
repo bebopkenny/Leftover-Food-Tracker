@@ -1,0 +1,7 @@
+# Ignore directories
+server_utils/
+tools/
+
+# Ignore specific files
+Makefile
+README.md
